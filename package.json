@@ -1,0 +1,19 @@
+{
+  "name": "dashdocs",
+  "version": "0.0.0",
+  "description": "Generate docsets for Dash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:timoxley/dashdoc.git"
+  },
+  "keywords": [
+    "documentation",
+    "dash"
+  ],
+  "author": "Tim Oxley",
+  "license": "MIT"
+}
